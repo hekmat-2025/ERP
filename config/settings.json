@@ -1,0 +1,23 @@
+{
+  "company": {
+    "name": "Aftab Sahar Blue Cons.",
+    "address": "",
+    "phone": "",
+    "logo_path": "assets/logo.png"
+  },
+  "currency": {
+    "code": "AFN",
+    "symbol": "AFN"
+  },
+  "tax": {
+    "enabled": true,
+    "default_gst_rate": 18.0
+  },
+  "database": {
+    "filename": "data/aftab_sahar.sqlite3"
+  },
+  "ui": {
+    "theme": "dark",
+    "business": "aftab_sahar"
+  }
+}
